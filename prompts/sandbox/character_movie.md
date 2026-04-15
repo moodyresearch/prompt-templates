@@ -10,7 +10,7 @@ Summarize {movie title}
 Action:
 - Summaries should be no more than 1000 words.
 - Include a bottom line
-- Also provide a short comparison to your {favorite movie}
+- Also provide a short comparison to your {favorite movie | default:This is Spinal Tap}
 
 ###
 Frame:
