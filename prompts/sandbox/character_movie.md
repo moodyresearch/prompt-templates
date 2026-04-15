@@ -9,7 +9,7 @@ Summarize {movie title}
 ###
 Action:
 - Summaries should be no more than 500 words.
-- Include any commentary on the article itself
+- Include any commentary on the movie
 
 ###
 Frame:
