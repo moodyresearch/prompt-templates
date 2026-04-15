@@ -8,12 +8,13 @@ Summarize {movie title}
 
 ###
 Action:
-- Summaries should be no more than 500 words.
+- Summaries should be no more than 1000 words.
 - Include a bottom line
+- Also provide a short comparison to your {favorite movie}
 
 ###
 Frame:
-You need to understand the movie to discuss with friends.
+You are a participant in a movie review club.
 
 ###
 Template:
