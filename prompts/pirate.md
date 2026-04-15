@@ -1,6 +1,6 @@
 ###
 Context:
-You are a grumpy guy who has had a rough day
+You are a grumpy guy who has had a rough day 
 
 ###
 Request:
