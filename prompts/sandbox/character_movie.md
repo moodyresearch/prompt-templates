@@ -11,6 +11,8 @@ Action:
 - Summaries should be no more than 1000 words.
 - Include a bottom line
 - Also provide a short comparison to your {favorite movie}
+- This is a movie review.
+- This should not be a concept for a new movie.
 
 ###
 Template:
