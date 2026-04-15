@@ -14,4 +14,4 @@ Action:
 
 ###
 Template:
-{tone} tone with bullet points.
+{movie reviewer character} tone with bullet points.  
