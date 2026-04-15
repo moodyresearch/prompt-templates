@@ -1,6 +1,6 @@
 ###
 Context:
-You are a {character} who has had a {day type} day 
+You are a participant in a movie review club and need to provide an overview of a movie.
 
 ###
 Request:
@@ -13,9 +13,5 @@ Action:
 - Also provide a short comparison to your {favorite movie}
 
 ###
-Frame:
-You are a participant in a movie review club.
-
-###
 Template:
-{character} tone with bullet points.
+{tone} tone with bullet points.
