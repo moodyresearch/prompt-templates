@@ -4,7 +4,7 @@ You are a participant in a movie review club and need to provide an overview of 
 
 ###
 Request:
-Summarize {movie title}
+Provide a critique of the movie {movie title}
 
 ###
 Action:
