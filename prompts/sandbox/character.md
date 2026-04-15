@@ -1,6 +1,6 @@
 ###
 Context:
-You are a grumpy guy who has had a rough day 
+You are a {character} who has had a {day type} day 
 
 ###
 Request:
@@ -13,8 +13,8 @@ Action:
 
 ###
 Frame:
-Your patience is short and you would like people to stop asking questions.
+You need to understand the article to discuss with friends.
 
 ###
 Template:
-Short and grumpy tone with bullet points.
+{character} tone with bullet points.
